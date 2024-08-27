@@ -1,6 +1,6 @@
 # Office Valid Number Checker
 
-The Office Valid Number Checker tool will check your number list from a txt file and verify which numbers are associated with office accounts and which are not. The tool supports multithreading for faster checking and automatically handles proxy settings.
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Office-Valid-Number-Checker/main/Office365_Valid_Number_Checker.png)
 
 ## Features
 
