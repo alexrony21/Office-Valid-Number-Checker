@@ -1,6 +1,6 @@
 # Office Valid Number Checker
 
-![Image](https://raw.githubusercontent.com/thepythoncode97/Office365-Valid-Number-Checker/refs/heads/main/Office365_Number_Validator.png)
+![Office365 Number Checker](https://raw.githubusercontent.com/thepythoncode97/office365-number-validator/refs/heads/main/office365-number-validator.png)
 
 ## Features
 - **Support Multithreading**: Faster verification with multithreading.
